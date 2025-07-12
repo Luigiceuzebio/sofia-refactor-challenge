@@ -18,6 +18,7 @@ Para alcançar os objetivos, a aplicação foi reestruturada numa nova organiza�
 
 ### Organização em Pastas:
 
+'''
 sofia/
 ├── README.md # Documentação do projeto.
 ├── main.py # Ponto de entrada da aplicação.
@@ -43,7 +44,7 @@ sofia/
 │
 └── utils/ # Funções utilitárias genéricas.
 └── helpers.py # Funções puras e reutilizáveis.
-
+'''
 
 ## 3. Detalhes das Mudanças e Decisões
 
